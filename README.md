@@ -1,2 +1,3 @@
 # PortfolioOne
-First program
+UWM Portfolio
+A few Java programs.
